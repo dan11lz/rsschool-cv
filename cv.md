@@ -2,8 +2,8 @@
 
 ## Contacts
 
-* __Email__: dan11lz7dan11lz7nf5@gmail.com
-*__GitHub:__ [dan11lz](https://github.com/dan11lz)
+- __Email:__ dan11lz7dan11lz7nf5@gmail.com
+- __GitHub:__ [dan11lz](https://github.com/dan11lz)
 
 ## About Me
 
