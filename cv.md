@@ -17,3 +17,27 @@ I love to learn, that's why I'm currently studying online to achieve my goal.
 * JavaScript (basic)
 * Git, GitHub
 * MySQL
+
+## Code Example
+
+__JavaScript__
+
+```javascript
+function multiply(a, b){
+return  a * b
+}
+```
+
+## Experience
+
+[My CV](https://dan11lz.github.io/rsschool-cv/cv)
+
+## Education
+
+* Secondary education
+* [The Rolling Scopes School](https://rs.school/) (currently)
+* Youtube
+
+## English
+
+Pre-Intermediate
